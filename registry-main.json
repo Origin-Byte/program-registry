@@ -10,7 +10,7 @@
         "path": {
           "git": "https://github.com/{Origin-Byte/actions}.git",
           "subdir": "",
-          "rev": "db1c58a6100d5a19c826c8622b21f4deaa1dc0dd"
+          "rev": "9219960787f29fc56d2ed2d21f7efd0557081824"
         },
         "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
       },
@@ -19,7 +19,7 @@
           "path": {
             "git": "https://github.com/{Origin-Byte/actions}.git",
             "subdir": "source/contracts/allowlist",
-            "rev": "db1c58a6100d5a19c826c8622b21f4deaa1dc0dd"
+            "rev": "9219960787f29fc56d2ed2d21f7efd0557081824"
           },
           "objectId": "70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
         },
