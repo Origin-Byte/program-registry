@@ -1,1 +1,37 @@
-{}
+{
+  "Allowlist": {
+    "1.1.0": {
+      "package": {
+        "name": "Allowlist",
+        "version": "1.1.0",
+        "publishedAt": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
+      },
+      "contractRef": {
+        "path": {
+          "git": "Origin-Byte/actions",
+          "subdir": "",
+          "rev": "beae6357ae50c307b39dee8bfcebbb5efe8da4f8"
+        },
+        "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
+      },
+      "dependencies": {
+        "Permissions": {
+          "path": {
+            "git": "Origin-Byte/actions",
+            "subdir": "source/contracts/allowlist",
+            "rev": "beae6357ae50c307b39dee8bfcebbb5efe8da4f8"
+          },
+          "objectId": "70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "ae1212baf8f0837e25926d941db3d26a61c1bea2"
+          },
+          "objectId": "70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
+        }
+      }
+    }
+  }
+}
