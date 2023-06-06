@@ -8,18 +8,18 @@
       },
       "contractRef": {
         "path": {
-          "git": "Origin-Byte/actions",
+          "git": "https://github.com/{Origin-Byte/actions}.git",
           "subdir": "",
-          "rev": "beae6357ae50c307b39dee8bfcebbb5efe8da4f8"
+          "rev": "db1c58a6100d5a19c826c8622b21f4deaa1dc0dd"
         },
         "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
       },
       "dependencies": {
         "Permissions": {
           "path": {
-            "git": "Origin-Byte/actions",
+            "git": "https://github.com/{Origin-Byte/actions}.git",
             "subdir": "source/contracts/allowlist",
-            "rev": "beae6357ae50c307b39dee8bfcebbb5efe8da4f8"
+            "rev": "db1c58a6100d5a19c826c8622b21f4deaa1dc0dd"
           },
           "objectId": "70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
         },
