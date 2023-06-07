@@ -484,5 +484,32 @@
         }
       }
     }
+  },
+  "Originmate": {
+    "3.0.0": {
+      "package": {
+        "name": "Originmate",
+        "version": "3.0.0",
+        "publishedAt": "0xed6c6fe0732be937f4379bc0b471f0f6bfbe0e8741968009e0f01e6de3d59f32"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/originmate.git",
+          "subdir": "",
+          "rev": "3e149519d19f6cc7b2157ff62e6e91836585e915"
+        },
+        "objectId": "0xed6c6fe0732be937f4379bc0b471f0f6bfbe0e8741968009e0f01e6de3d59f32"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "ae1212baf8f0837e25926d941db3d26a61c1bea2"
+          },
+          "objectId": "null"
+        }
+      }
+    }
   }
 }
