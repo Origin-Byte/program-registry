@@ -1053,7 +1053,7 @@
       "contractRef": {
         "path": {
           "git": "https://github.com/Origin-Byte/originmate.git",
-          "subdir": "originmate",
+          "subdir": "",
           "rev": "177241228cfe6ad463f556679eb7b799cb5478ea"
         },
         "objectId": "0xed6c6fe0732be937f4379bc0b471f0f6bfbe0e8741968009e0f01e6de3d59f32"
