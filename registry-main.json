@@ -43,7 +43,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/permissions",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
       },
@@ -60,7 +60,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/utils",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x859eb18bd5b5e8cc32deb6dfb1c39941008ab3c6e27f0b8ce2364be7102bb7cb"
         }
@@ -111,7 +111,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/utils",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x859eb18bd5b5e8cc32deb6dfb1c39941008ab3c6e27f0b8ce2364be7102bb7cb"
       },
@@ -120,7 +120,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/pseudorandom",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x9e5962d5183664be8a7762fbe94eee6e3457c0cc701750c94c17f7f8ac5a32fb"
         },
@@ -179,7 +179,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/request",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0xe2c7a6843cb13d9549a9d2dc1c266b572ead0b4b9f090e7c3c46de2714102b43"
       },
@@ -188,7 +188,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -322,7 +322,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/authlist",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x228b48911fdc05f8d80ac4334cd734d38dd7db74a0f4e423cb91f736f429ebe4"
       },
@@ -331,7 +331,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -390,7 +390,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/allowlist",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
       },
@@ -399,7 +399,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -522,7 +522,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/nft_protocol",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x6f3dbae0b49bfd3e5c396b2023dbc5c01c2548d72150edac08f06468eff0e45a"
       },
@@ -531,7 +531,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/allowlist",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
         },
@@ -539,7 +539,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/authlist",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x228b48911fdc05f8d80ac4334cd734d38dd7db74a0f4e423cb91f736f429ebe4"
         },
@@ -547,7 +547,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/kiosk",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x95a441d389b07437d00dd07e0b6f05f513d7659b13fd7c5d3923c7d9d847199b"
         },
@@ -563,7 +563,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -571,7 +571,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/pseudorandom",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x9e5962d5183664be8a7762fbe94eee6e3457c0cc701750c94c17f7f8ac5a32fb"
         },
@@ -579,7 +579,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/request",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0xe2c7a6843cb13d9549a9d2dc1c266b572ead0b4b9f090e7c3c46de2714102b43"
         },
@@ -595,7 +595,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/utils",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x859eb18bd5b5e8cc32deb6dfb1c39941008ab3c6e27f0b8ce2364be7102bb7cb"
         }
@@ -638,7 +638,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/pseudorandom",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x9e5962d5183664be8a7762fbe94eee6e3457c0cc701750c94c17f7f8ac5a32fb"
       },
@@ -722,7 +722,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/launchpad",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0xc74531639fadfb02d30f05f37de4cf1e1149ed8d23658edd089004830068180b"
       },
@@ -731,7 +731,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/kiosk",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x95a441d389b07437d00dd07e0b6f05f513d7659b13fd7c5d3923c7d9d847199b"
         },
@@ -747,7 +747,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/pseudorandom",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x9e5962d5183664be8a7762fbe94eee6e3457c0cc701750c94c17f7f8ac5a32fb"
         },
@@ -763,7 +763,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/utils",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x859eb18bd5b5e8cc32deb6dfb1c39941008ab3c6e27f0b8ce2364be7102bb7cb"
         }
@@ -862,7 +862,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/liquidity_layer_v1",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x4e0629fa51a62b0c1d7c7b9fc89237ec5b6f630d7798ad3f06d820afb93a995a"
       },
@@ -871,7 +871,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/allowlist",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622fa"
         },
@@ -879,7 +879,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/authlist",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x228b48911fdc05f8d80ac4334cd734d38dd7db74a0f4e423cb91f736f429ebe4"
         },
@@ -887,7 +887,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/kiosk",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x95a441d389b07437d00dd07e0b6f05f513d7659b13fd7c5d3923c7d9d847199b"
         },
@@ -903,7 +903,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -911,7 +911,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/request",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0xe2c7a6843cb13d9549a9d2dc1c266b572ead0b4b9f090e7c3c46de2714102b43"
         },
@@ -927,7 +927,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/utils",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x859eb18bd5b5e8cc32deb6dfb1c39941008ab3c6e27f0b8ce2364be7102bb7cb"
         }
@@ -986,7 +986,7 @@
         "path": {
           "git": "https://github.com/Origin-Byte/nft-protocol.git",
           "subdir": "contracts/kiosk",
-          "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+          "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
         },
         "objectId": "0x95a441d389b07437d00dd07e0b6f05f513d7659b13fd7c5d3923c7d9d847199b"
       },
@@ -995,7 +995,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/permissions",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0x16c5f17f2d55584a6e6daa442ccf83b4530d10546a8e7dedda9ba324e012fc40"
         },
@@ -1003,7 +1003,7 @@
           "path": {
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/request",
-            "rev": "c1896e51e7b3d19bd94af0b25c3f75eb2196ded3"
+            "rev": "a754d4772ed85455fc9f7d653f8d66bf8046f36c"
           },
           "objectId": "0xe2c7a6843cb13d9549a9d2dc1c266b572ead0b4b9f090e7c3c46de2714102b43"
         },
