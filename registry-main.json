@@ -524,7 +524,7 @@
           "subdir": "contracts/nft_protocol",
           "rev": "93f6cd0b8966354b1b00e7d798cbfddaa867a07b"
         },
-        "objectId": "0x6f3dbae0b49bfd3e5c396b2023dbc5c01c2548d72150edac08f06468eff0e45a"
+        "objectId": "0xbc3df36be17f27ac98e3c839b2589db8475fa07b20657b08e8891e3aaf5ee5f9"
       },
       "dependencies": {
         "Allowlist": {
