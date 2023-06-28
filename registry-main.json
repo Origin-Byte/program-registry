@@ -1526,6 +1526,31 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "3.2.0": {
+      "package": {
+        "name": "Originmate",
+        "version": "3.2.0",
+        "publishedAt": "0x5664f68175862c9fc481eeabbdc59bdd1823f5ccc497fc015787c94a0eda13f5"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/originmate.git",
+          "subdir": "",
+          "rev": "8d5fc07db61447e8dd3e699556aaf9cea1ebf463"
+        },
+        "objectId": "0xed6c6fe0732be937f4379bc0b471f0f6bfbe0e8741968009e0f01e6de3d59f32"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "a2af559f9ea21e09ca7e377e3b477fc2b5239fc7"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   },
   "Sui": {
