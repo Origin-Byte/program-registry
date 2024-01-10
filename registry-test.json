@@ -4426,6 +4426,56 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "1.3.0": {
+      "package": {
+        "name": "Critbit",
+        "version": "1.3.0",
+        "publishedAt": "0xd90b7759ecf2fc4e8db21ffb1451c2b47cab153924d9a96d60eeffa22084c868"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/critbit.git",
+          "subdir": "",
+          "rev": "f13ebe0c826c89e72a17a63ccfe55e9c178e5eb8"
+        },
+        "objectId": "0xa1bcf24ae0e834e9e6f648344a8057b7a9ea86c9d2c748101815690f4ded409a"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "a2af559f9ea21e09ca7e377e3b477fc2b5239fc7"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "1.4.0": {
+      "package": {
+        "name": "Critbit",
+        "version": "1.4.0",
+        "publishedAt": "0xd90b7759ecf2fc4e8db21ffb1451c2b47cab153924d9a96d60eeffa22084c868"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/critbit.git",
+          "subdir": "",
+          "rev": "cb415fa764599cce67fd1452d706d17434101639"
+        },
+        "objectId": "0xa1bcf24ae0e834e9e6f648344a8057b7a9ea86c9d2c748101815690f4ded409a"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   }
 }
