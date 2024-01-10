@@ -263,6 +263,39 @@
           "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Permissions",
+        "version": "1.6.0",
+        "publishedAt": "0xd3dfa42f0fcc47c673fa9dc93cf389d83f1b354ee2a74d7a6999997c7b8e63d7"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/permissions",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        },
+        "Utils": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/utils",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
+        }
+      }
     }
   },
   "Utils": {
@@ -529,6 +562,39 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Utils",
+        "version": "1.6.0",
+        "publishedAt": "0xff2bd2f7d9515cc9823b1cfabc03ba3fad59e44d57c4c3863e520b526c41098f"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/utils",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
+      },
+      "dependencies": {
+        "Pseudorandom": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/pseudorandom",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x04b4ebbcaeead1d059a4b8bc4e8d532e9470d4d514e2539c6350b2b11c22b6aa"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   },
   "Request": {
@@ -791,6 +857,39 @@
             "git": "https://github.com/MystenLabs/sui.git",
             "subdir": "crates/sui-framework/packages/sui-framework",
             "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Request",
+        "version": "1.6.0",
+        "publishedAt": "0x024c55e3471cac9a78356ec10717eed1869697b6d93d6ace00cdc8d8d11cd9e0"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/request",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0xaf6ff929224de84ca0372eceef9a1c891bae68d03427bfcf5e99458a2c1498a1"
+      },
+      "dependencies": {
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
           },
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
@@ -1136,6 +1235,39 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Authlist",
+        "version": "1.6.0",
+        "publishedAt": "0x7b8b40d64863b47582cad7a8bf6335d359e5d043b171ab25888b9df5f95f5561"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/authlist",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x8c19460961af40edf348433cd41547f63e306e4b5c1a0ae9269364bd9fcbb5a6"
+      },
+      "dependencies": {
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   },
   "Allowlist": {
@@ -1398,6 +1530,39 @@
             "git": "https://github.com/MystenLabs/sui.git",
             "subdir": "crates/sui-framework/packages/sui-framework",
             "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Allowlist",
+        "version": "1.6.0",
+        "publishedAt": "0x5db38ad4d76342367b0ee4fd858473cad17f8f48b89b9980ffef9320872d39e4"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/allowlist",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x557ec0426a2c803b3769f152c12ad9ad0b2cecc4e6cd2716be055ad4cc9df29f"
+      },
+      "dependencies": {
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
           },
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
@@ -2124,6 +2289,95 @@
           "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "NftProtocol",
+        "version": "1.6.0",
+        "publishedAt": "0x591942f013006753b9677d83d7c1e3a8a15ed95e97f6f66692336113a2e92778"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/nft_protocol",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x01735f24294e55a988541e97db050903cf8a70ce38c77ad219c134344eda67ac"
+      },
+      "dependencies": {
+        "Allowlist": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/allowlist",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x557ec0426a2c803b3769f152c12ad9ad0b2cecc4e6cd2716be055ad4cc9df29f"
+        },
+        "Authlist": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/authlist",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x8c19460961af40edf348433cd41547f63e306e4b5c1a0ae9269364bd9fcbb5a6"
+        },
+        "Kiosk": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/kiosk",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xd0a449fc6b27195df90aff0076cdd84dd43f600235b23144f2422741b1bb86a8"
+        },
+        "Originmate": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/originmate",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x8b111cb401053b3b61ef37832cc16d0784a77c2c1058014ff7057ec4cf6f8932"
+        },
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Pseudorandom": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/pseudorandom",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x04b4ebbcaeead1d059a4b8bc4e8d532e9470d4d514e2539c6350b2b11c22b6aa"
+        },
+        "Request": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/request",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xaf6ff929224de84ca0372eceef9a1c891bae68d03427bfcf5e99458a2c1498a1"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        },
+        "Utils": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/utils",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
+        }
+      }
     }
   },
   "Pseudorandom": {
@@ -2322,6 +2576,31 @@
             "git": "https://github.com/MystenLabs/sui.git",
             "subdir": "crates/sui-framework/packages/sui-framework",
             "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Pseudorandom",
+        "version": "1.6.0",
+        "publishedAt": "0xa758966f99176f7409e3b59e1605f03b04bcfb8913bdbdbfb480cd096f0832f3"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/pseudorandom",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x04b4ebbcaeead1d059a4b8bc4e8d532e9470d4d514e2539c6350b2b11c22b6aa"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
           },
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
@@ -2780,6 +3059,63 @@
             "git": "https://github.com/Origin-Byte/nft-protocol.git",
             "subdir": "contracts/utils",
             "rev": "82b91513c0bc474d6c428d28c9734b03b2a16a1d"
+          },
+          "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
+        }
+      }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Launchpad",
+        "version": "1.6.0",
+        "publishedAt": "0xee276bc8365e922d2bf3bdd9b5eba363626a1e99c8298e2521aee564943c4680"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/launchpad",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0x7a77b4695a59078fda0c6109737bf7b72a7a7315ff42edfc0eea772c2dce341e"
+      },
+      "dependencies": {
+        "Kiosk": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/kiosk",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xd0a449fc6b27195df90aff0076cdd84dd43f600235b23144f2422741b1bb86a8"
+        },
+        "Originmate": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/originmate",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x8b111cb401053b3b61ef37832cc16d0784a77c2c1058014ff7057ec4cf6f8932"
+        },
+        "Pseudorandom": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/pseudorandom",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x04b4ebbcaeead1d059a4b8bc4e8d532e9470d4d514e2539c6350b2b11c22b6aa"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        },
+        "Utils": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/utils",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
           },
           "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
         }
@@ -3434,6 +3770,87 @@
           "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "LiquidityLayerV1",
+        "version": "1.6.0",
+        "publishedAt": "0x491f3a181784d08194cff8c61615460784b7bb00fff1ab70e8421e4c1f6356c5"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/liquidity_layer_v1",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0xa9f9979daa9f68b6cf7da422fa5590e09773409effdf3d02079d5595f101b9a9"
+      },
+      "dependencies": {
+        "Allowlist": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/allowlist",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x557ec0426a2c803b3769f152c12ad9ad0b2cecc4e6cd2716be055ad4cc9df29f"
+        },
+        "Authlist": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/authlist",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x8c19460961af40edf348433cd41547f63e306e4b5c1a0ae9269364bd9fcbb5a6"
+        },
+        "Kiosk": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/kiosk",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xd0a449fc6b27195df90aff0076cdd84dd43f600235b23144f2422741b1bb86a8"
+        },
+        "Originmate": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/originmate",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x8b111cb401053b3b61ef37832cc16d0784a77c2c1058014ff7057ec4cf6f8932"
+        },
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Request": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/request",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xaf6ff929224de84ca0372eceef9a1c891bae68d03427bfcf5e99458a2c1498a1"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        },
+        "Utils": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/utils",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xcdbd730f422a89174ee4717e97a3db1c48b008f969eec00846a0d685b2437f8a"
+        }
+      }
     }
   },
   "Kiosk": {
@@ -3764,6 +4181,47 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Kiosk",
+        "version": "1.6.0",
+        "publishedAt": "0xd5188ad6a4cc62b99f8876a742073926b5c12ad4f994652f4b5bcf00002cd135"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/kiosk",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0xd0a449fc6b27195df90aff0076cdd84dd43f600235b23144f2422741b1bb86a8"
+      },
+      "dependencies": {
+        "Permissions": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/permissions",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0x941e0a5b9ea70064b1d8649229ceb3216e0ef36802320f50b4b00bd9178b8073"
+        },
+        "Request": {
+          "path": {
+            "git": "https://github.com/Origin-Byte/nft-protocol.git",
+            "subdir": "contracts/request",
+            "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+          },
+          "objectId": "0xaf6ff929224de84ca0372eceef9a1c891bae68d03427bfcf5e99458a2c1498a1"
+        },
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   },
   "Originmate": {
@@ -3837,6 +4295,31 @@
             "git": "https://github.com/MystenLabs/sui.git",
             "subdir": "crates/sui-framework/packages/sui-framework",
             "rev": "a2af559f9ea21e09ca7e377e3b477fc2b5239fc7"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "3.5.0": {
+      "package": {
+        "name": "Originmate",
+        "version": "3.5.0",
+        "publishedAt": "0x63dfd3b9f5ea05754013b9205a47eca6e0143986b25d5f3e8f7fd10a4453c922"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/originmate",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "8b111cb401053b3b61ef37832cc16d0784a77c2c1058014ff7057ec4cf6f8932"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
           },
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
@@ -4014,6 +4497,31 @@
             "git": "https://github.com/MystenLabs/sui.git",
             "subdir": "crates/sui-framework/packages/sui-framework",
             "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Critbit",
+        "version": "1.6.0",
+        "publishedAt": "0x1c1b8a2e8e9ab403d0a7990e2eb5bdfd0f6968cdfedce51c192608b39442009e"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/nft-protocol.git",
+          "subdir": "contracts/critbit",
+          "rev": "7327a53828e367d8c2abff33756b38d5f10a5f55"
+        },
+        "objectId": "0xa1bcf24ae0e834e9e6f648344a8057b7a9ea86c9d2c748101815690f4ded409a"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
           },
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
