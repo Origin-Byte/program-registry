@@ -4401,6 +4401,31 @@
           "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
         }
       }
+    },
+    "1.2.0": {
+      "package": {
+        "name": "Critbit",
+        "version": "1.2.0",
+        "publishedAt": "0x3b8d0ed991660b811a48c18b58ecaf8cead341e0b3c87f5469bb3ac574d34e42"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/Origin-Byte/critbit.git",
+          "subdir": "",
+          "rev": "78c9f15a082f7f6da8c30701e3a1554f43d8fb45"
+        },
+        "objectId": "0xa1bcf24ae0e834e9e6f648344a8057b7a9ea86c9d2c748101815690f4ded409a"
+      },
+      "dependencies": {
+        "Sui": {
+          "path": {
+            "git": "https://github.com/MystenLabs/sui.git",
+            "subdir": "crates/sui-framework/packages/sui-framework",
+            "rev": "8b681515c0cf435df2a54198a28ab4ef574d202b"
+          },
+          "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+        }
+      }
     }
   }
 }
