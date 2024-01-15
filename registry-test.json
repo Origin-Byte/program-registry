@@ -4374,6 +4374,422 @@
         "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
       },
       "dependencies": {}
+    },
+    "1.4.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.4.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "9d0fba4a490e1cf80101bbd4019c7bb1ccfce99b"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.4.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.4.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "7ffd0baf7d78bac2b1325c11c9558094f825d5d5"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.4.2": {
+      "package": {
+        "name": "Sui",
+        "version": "1.4.2",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "d9bcbb29d8879cead0fd62e76e29441af0c7469e"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.4.3": {
+      "package": {
+        "name": "Sui",
+        "version": "1.4.3",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "5b4da14bc2196dafbbb46b4e481af3bba1137f05"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.5.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.5.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "e7c5810936caf15916ed8e3bb893f96ac8273937"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.6.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.6.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "7612fbe000fb1f8612b8e777ac44a1754583752c"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.6.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.6.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "eac1292ada4c8edddf3edc83c0a6e284a95710df"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.6.2": {
+      "package": {
+        "name": "Sui",
+        "version": "1.6.2",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "8459599979410611b84e98d8909b7844075e21af"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.7.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.7.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "362c5c3f22d8be5ace3e2586056403db05b13cda"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.7.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.7.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "e1173ae8288b4ba3b7f41412e67225573b8fb6d3"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.8.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.8.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "adecc6c5e3651baf08e16f3bc6a490e5b52e0f4a"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.8.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.8.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "adecc6c5e3651baf08e16f3bc6a490e5b52e0f4a"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.8.2": {
+      "package": {
+        "name": "Sui",
+        "version": "1.8.2",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "433090856ef070fc71c775b444c9a9070692664e"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.9.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.9.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "f598b13b74f66d76d85190acfb127bab15afe3d2"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.9.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.9.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "81b6f1ced4cec861539180ef07ae418b7089750b"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.10.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.10.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "30ee526674a7595c08c68e165991d62469437ecc"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.10.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.10.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "a0e136a04c5c09371f30255f7d4dac1793504ecb"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.11.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.11.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "20cf9113de06eb728cd57decdecc836813988767"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.11.2": {
+      "package": {
+        "name": "Sui",
+        "version": "1.11.2",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "46a97cd8bedea35a8ba0e3a569c82ffea2c59bfc"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.12.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.12.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "f839d723182671984622459688c5550914451b94"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.12.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.12.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "fa8cda37c5ea9760d2f6b52bb544cb56d9d4c79e"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.13.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.13.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "64fe2b6871f2b4c2c401a1fd853cf75050399aa6"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.14.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.14.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "8b46c5ed98c276a4dc2e94a53d6c1798bdb4344e"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.14.2": {
+      "package": {
+        "name": "Sui",
+        "version": "1.14.2",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "299cbeafbb6aa5601e08f00ac24bd647c61a63e2"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.15.0": {
+      "package": {
+        "name": "Sui",
+        "version": "1.15.0",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "1cebec3d6af3a6cd1d0e412f72b1de7c6fd429a0"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
+    },
+    "1.15.1": {
+      "package": {
+        "name": "Sui",
+        "version": "1.15.1",
+        "publishedAt": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "contractRef": {
+        "path": {
+          "git": "https://github.com/MystenLabs/sui.git",
+          "subdir": "crates/sui-framework/packages/sui-framework",
+          "rev": "08119f95e9ccdc926eae3fff8c95e50678f56aed"
+        },
+        "objectId": "0x0000000000000000000000000000000000000000000000000000000000000002"
+      },
+      "dependencies": {}
     }
   },
   "Critbit": {
